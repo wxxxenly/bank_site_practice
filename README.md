@@ -20,13 +20,10 @@
 **Backend:**
 - Python 3.10+
 - Flask 2.0+
-- SQLAlchemy 1.4+
 - Psycopg2 2.9+
 
 **Frontend:**
 - Bootstrap 5.1
-- Jinja2
-- Chart.js (визуализация)
 
 **База данных:**
 - PostgreSQL 14+
