@@ -36,8 +36,8 @@
 
 ```bash
 # 1. Клонировать репозиторий
-git clone https://github.com/yourusername/bank-deposit-system.git
-cd bank-deposit-system
+git clone https://github.com/wxxxenly/bank_site_practice
+cd bank_site_practice
 
 # 2. Установить зависимости
 pip install -r requirements.txt
